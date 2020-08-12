@@ -1,0 +1,8 @@
+#centralizaLogin{
+    margin-left: 40%;
+    margin-top: 23%;
+}
+
+body{
+    background:linear-gradient(rgba(255,255,255,.4), rgba(255,255,255,.4)), url(/images/backGroundLogin.png);
+}
